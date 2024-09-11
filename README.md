@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chanakya
-- 👀 Programming Enthusiast
-- 🌱 Exploring the field of ML 
-- 📫 You can reach me on chanakyacherukumalli24@gmail.com
+- 👀 Studying CSE at IIT Indore 
+- 🌱 ML Enthusiast  
+- 📫 You can reach me at chanakyacherukumalli24@gmail.com
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: I use light mode!!
 
