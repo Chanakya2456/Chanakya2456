@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chanakya
-- 👀 Studying CSE at IIT Indore 
+- 👀 CSE Sophomore at IIT Indore 
 - 🌱 ML Enthusiast  
 - 📫 You can reach me at chanakyacherukumalli24@gmail.com
 - 😄 Pronouns: He/ Him
